@@ -1,0 +1,12 @@
+{% if all_posts %}
+
+    <ul>
+        {% for post in all_posts %}
+        <li><a href="/feed/{{ post.id }}/">{{ post.post_title }}</a></li>
+        {% endfor %}
+    </ul>
+{% else %}
+
+<h3> No posts here! </h3>
+
+{% endif %}
