@@ -1,0 +1,921 @@
+Not Found: /back_end/
+Internal Server Error: /back_end/id_check/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/Pazzio/Django/SuperPaco/SuperPaco/maindb/views.py", line 13, in id_check
+    a = check(request)
+  File "/home/Pazzio/Django/SuperPaco/SuperPaco/maindb/lib/check.py", line 100, in check
+    z.choices += user_id['choices']
+TypeError: unsupported operand type(s) for +=: 'NoneType' and 'list'
+"POST /back_end/id_check/ HTTP/1.1" 500 27
+Internal Server Error: /back_end/id_check/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/Pazzio/Django/SuperPaco/SuperPaco/maindb/views.py", line 13, in id_check
+    a = check(request)
+  File "/home/Pazzio/Django/SuperPaco/SuperPaco/maindb/lib/check.py", line 100, in check
+    z.choices += user_id['choices']
+TypeError: unsupported operand type(s) for +=: 'NoneType' and 'list'
+"POST /back_end/id_check/ HTTP/1.1" 500 27
+Internal Server Error: /back_end/id_check/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/Pazzio/Django/SuperPaco/SuperPaco/maindb/views.py", line 13, in id_check
+    a = check(request)
+  File "/home/Pazzio/Django/SuperPaco/SuperPaco/maindb/lib/check.py", line 100, in check
+    z.choices += list(user_id['choices'])
+TypeError: unsupported operand type(s) for +=: 'NoneType' and 'list'
+"POST /back_end/id_check/ HTTP/1.1" 500 27
+Internal Server Error: /back_end/id_check/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/Pazzio/Django/SuperPaco/SuperPaco/maindb/views.py", line 13, in id_check
+    a = check(request)
+  File "/home/Pazzio/Django/SuperPaco/SuperPaco/maindb/lib/check.py", line 100, in check
+    z.choices += list(user_id['choices'])
+TypeError: unsupported operand type(s) for +=: 'NoneType' and 'list'
+"POST /back_end/id_check/ HTTP/1.1" 500 27
+Internal Server Error: /back_end/id_check/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/Pazzio/Django/SuperPaco/SuperPaco/maindb/views.py", line 13, in id_check
+    a = check(request)
+  File "/home/Pazzio/Django/SuperPaco/SuperPaco/maindb/lib/check.py", line 100, in check
+    z.choices += list(user_id['choices'])
+TypeError: unsupported operand type(s) for +=: 'NoneType' and 'list'
+"POST /back_end/id_check/ HTTP/1.1" 500 27
+"POST /back_end/id_check/ HTTP/1.1" 200 43
+"POST /back_end/id_check/ HTTP/1.1" 200 43
+"POST /back_end/basic_data/ HTTP/1.1" 200 22
+"POST /back_end/id_check/ HTTP/1.1" 200 31
+"POST /back_end/basic_data/ HTTP/1.1" 200 30
+"POST /back_end/id_check/ HTTP/1.1" 200 43
+"POST /back_end/id_check/ HTTP/1.1" 200 43
+"POST /back_end/basic_data/ HTTP/1.1" 200 22
+"POST /back_end/id_check/ HTTP/1.1" 200 31
+"POST /back_end/basic_data/ HTTP/1.1" 200 30
+Internal Server Error: /back_end/id_check/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/Pazzio/Django/SuperPaco/SuperPaco/maindb/views.py", line 13, in id_check
+    a = check(request)
+  File "/home/Pazzio/Django/SuperPaco/SuperPaco/maindb/lib/check.py", line 100, in check
+    z.choices += user_id['choices']
+TypeError: unsupported operand type(s) for +=: 'NoneType' and 'list'
+"POST /back_end/id_check/ HTTP/1.1" 500 27
+Internal Server Error: /back_end/id_check/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/Pazzio/Django/SuperPaco/SuperPaco/maindb/views.py", line 13, in id_check
+    a = check(request)
+  File "/home/Pazzio/Django/SuperPaco/SuperPaco/maindb/lib/check.py", line 100, in check
+    z.choices += user_id['choices']
+TypeError: unsupported operand type(s) for +=: 'NoneType' and 'list'
+"POST /back_end/id_check/ HTTP/1.1" 500 27
+Internal Server Error: /back_end/id_check/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/Pazzio/Django/SuperPaco/SuperPaco/maindb/views.py", line 13, in id_check
+    a = check(request)
+  File "/home/Pazzio/Django/SuperPaco/SuperPaco/maindb/lib/check.py", line 100, in check
+    z.choices += user_id['choices']
+TypeError: unsupported operand type(s) for +=: 'NoneType' and 'list'
+"POST /back_end/id_check/ HTTP/1.1" 500 27
+Internal Server Error: /back_end/id_check/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/Pazzio/Django/SuperPaco/SuperPaco/maindb/views.py", line 13, in id_check
+    a = check(request)
+  File "/home/Pazzio/Django/SuperPaco/SuperPaco/maindb/lib/check.py", line 100, in check
+    z.choices += user_id['choices']
+TypeError: unsupported operand type(s) for +=: 'NoneType' and 'list'
+"POST /back_end/id_check/ HTTP/1.1" 500 27
+Internal Server Error: /back_end/id_check/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/Pazzio/Django/SuperPaco/SuperPaco/maindb/views.py", line 13, in id_check
+    a = check(request)
+  File "/home/Pazzio/Django/SuperPaco/SuperPaco/maindb/lib/check.py", line 100, in check
+    z.choices += user_id['choices']
+TypeError: unsupported operand type(s) for +=: 'NoneType' and 'list'
+"POST /back_end/id_check/ HTTP/1.1" 500 27
+Internal Server Error: /back_end/id_check/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/Pazzio/Django/SuperPaco/SuperPaco/maindb/views.py", line 13, in id_check
+    a = check(request)
+  File "/home/Pazzio/Django/SuperPaco/SuperPaco/maindb/lib/check.py", line 100, in check
+    z.choices += user_id['choices']
+TypeError: unsupported operand type(s) for +=: 'NoneType' and 'list'
+"POST /back_end/id_check/ HTTP/1.1" 500 27
+UPDATE "maindb_id" SET "choices" = %s WHERE "choices" IS NULL; (params [None])
+ALTER TABLE "maindb_id" ALTER COLUMN "choices" SET NOT NULL; (params [])
+Internal Server Error: /back_end/basic_data/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+psycopg2.IntegrityError: null value in column "choices" violates not-null constraint
+DETAIL:  Failing row contains (1, ¸3DE38,3><A38,3=>A38,3=A>3i01, 0, 0, t, 0, , , , null).
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/Pazzio/Django/SuperPaco/SuperPaco/maindb/views.py", line 35, in basic_data
+    a = make(request)
+  File "/home/Pazzio/Django/SuperPaco/SuperPaco/maindb/lib/check.py", line 61, in make
+    b.save()
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/base.py", line 718, in save
+    force_update=force_update, update_fields=update_fields)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/base.py", line 748, in save_base
+    updated = self._save_table(raw, cls, force_insert, force_update, using, update_fields)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/base.py", line 831, in _save_table
+    result = self._do_insert(cls._base_manager, using, fields, update_pk, raw)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/base.py", line 869, in _do_insert
+    using=using, raw=raw)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/query.py", line 1136, in _insert
+    return query.get_compiler(using=using).execute_sql(return_id)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/compiler.py", line 1289, in execute_sql
+    cursor.execute(sql, params)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/backends/utils.py", line 68, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/backends/utils.py", line 77, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/usr/local/lib/python3.6/dist-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+django.db.utils.IntegrityError: null value in column "choices" violates not-null constraint
+DETAIL:  Failing row contains (1, ¸3DE38,3><A38,3=>A38,3=A>3i01, 0, 0, t, 0, , , , null).
+
+"POST /back_end/basic_data/ HTTP/1.1" 500 27
+Internal Server Error: /back_end/basic_data/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+psycopg2.IntegrityError: null value in column "choices" violates not-null constraint
+DETAIL:  Failing row contains (2, ¸3DE38,3><A38,3=>A38,3=A>3i01, 0, 0, t, 0, , , , null).
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/Pazzio/Django/SuperPaco/SuperPaco/maindb/views.py", line 35, in basic_data
+    a = make(request)
+  File "/home/Pazzio/Django/SuperPaco/SuperPaco/maindb/lib/check.py", line 61, in make
+    b.save()
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/base.py", line 718, in save
+    force_update=force_update, update_fields=update_fields)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/base.py", line 748, in save_base
+    updated = self._save_table(raw, cls, force_insert, force_update, using, update_fields)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/base.py", line 831, in _save_table
+    result = self._do_insert(cls._base_manager, using, fields, update_pk, raw)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/base.py", line 869, in _do_insert
+    using=using, raw=raw)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/query.py", line 1136, in _insert
+    return query.get_compiler(using=using).execute_sql(return_id)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/compiler.py", line 1289, in execute_sql
+    cursor.execute(sql, params)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/backends/utils.py", line 68, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/backends/utils.py", line 77, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/usr/local/lib/python3.6/dist-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+django.db.utils.IntegrityError: null value in column "choices" violates not-null constraint
+DETAIL:  Failing row contains (2, ¸3DE38,3><A38,3=>A38,3=A>3i01, 0, 0, t, 0, , , , null).
+
+"POST /back_end/basic_data/ HTTP/1.1" 500 27
+"POST /back_end/id_check/ HTTP/1.1" 200 31
+Internal Server Error: /back_end/basic_data/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+psycopg2.IntegrityError: null value in column "choices" violates not-null constraint
+DETAIL:  Failing row contains (1, ¸3DE38,3><A38,3=>A38,3=A>3i01, 0, 0, t, 0, , , , null).
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/Pazzio/Django/SuperPaco/SuperPaco/maindb/views.py", line 35, in basic_data
+    a = make(request)
+  File "/home/Pazzio/Django/SuperPaco/SuperPaco/maindb/lib/check.py", line 61, in make
+    b.save()
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/base.py", line 718, in save
+    force_update=force_update, update_fields=update_fields)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/base.py", line 748, in save_base
+    updated = self._save_table(raw, cls, force_insert, force_update, using, update_fields)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/base.py", line 831, in _save_table
+    result = self._do_insert(cls._base_manager, using, fields, update_pk, raw)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/base.py", line 869, in _do_insert
+    using=using, raw=raw)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/query.py", line 1136, in _insert
+    return query.get_compiler(using=using).execute_sql(return_id)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/compiler.py", line 1289, in execute_sql
+    cursor.execute(sql, params)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/backends/utils.py", line 68, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/backends/utils.py", line 77, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/usr/local/lib/python3.6/dist-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+django.db.utils.IntegrityError: null value in column "choices" violates not-null constraint
+DETAIL:  Failing row contains (1, ¸3DE38,3><A38,3=>A38,3=A>3i01, 0, 0, t, 0, , , , null).
+
+"POST /back_end/basic_data/ HTTP/1.1" 500 27
+Internal Server Error: /back_end/basic_data/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+psycopg2.IntegrityError: null value in column "choices" violates not-null constraint
+DETAIL:  Failing row contains (2, ¸3DE38,3><A38,3=>A38,3=A>3i01, 0, 0, t, 0, , , , null).
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/Pazzio/Django/SuperPaco/SuperPaco/maindb/views.py", line 35, in basic_data
+    a = make(request)
+  File "/home/Pazzio/Django/SuperPaco/SuperPaco/maindb/lib/check.py", line 61, in make
+    b.save()
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/base.py", line 718, in save
+    force_update=force_update, update_fields=update_fields)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/base.py", line 748, in save_base
+    updated = self._save_table(raw, cls, force_insert, force_update, using, update_fields)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/base.py", line 831, in _save_table
+    result = self._do_insert(cls._base_manager, using, fields, update_pk, raw)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/base.py", line 869, in _do_insert
+    using=using, raw=raw)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/query.py", line 1136, in _insert
+    return query.get_compiler(using=using).execute_sql(return_id)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/compiler.py", line 1289, in execute_sql
+    cursor.execute(sql, params)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/backends/utils.py", line 68, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/backends/utils.py", line 77, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/usr/local/lib/python3.6/dist-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+django.db.utils.IntegrityError: null value in column "choices" violates not-null constraint
+DETAIL:  Failing row contains (2, ¸3DE38,3><A38,3=>A38,3=A>3i01, 0, 0, t, 0, , , , null).
+
+"POST /back_end/basic_data/ HTTP/1.1" 500 27
+ALTER TABLE "maindb_id" ALTER COLUMN "choices" DROP NOT NULL; (params [])
+"POST /back_end/basic_data/ HTTP/1.1" 200 22
+"POST /back_end/id_check/ HTTP/1.1" 200 31
+"POST /back_end/basic_data/ HTTP/1.1" 200 30
+Internal Server Error: /back_end/id_check/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/Pazzio/Django/SuperPaco/SuperPaco/maindb/views.py", line 13, in id_check
+    a = check(request)
+  File "/home/Pazzio/Django/SuperPaco/SuperPaco/maindb/lib/check.py", line 100, in check
+    z.choices += user_id['choices']
+TypeError: unsupported operand type(s) for +=: 'NoneType' and 'list'
+"POST /back_end/id_check/ HTTP/1.1" 500 27
+Internal Server Error: /back_end/id_check/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/Pazzio/Django/SuperPaco/SuperPaco/maindb/views.py", line 13, in id_check
+    a = check(request)
+  File "/home/Pazzio/Django/SuperPaco/SuperPaco/maindb/lib/check.py", line 100, in check
+    z.choices += user_id['choices']
+TypeError: unsupported operand type(s) for +=: 'NoneType' and 'list'
+"POST /back_end/id_check/ HTTP/1.1" 500 27
+Internal Server Error: /back_end/id_check/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/Pazzio/Django/SuperPaco/SuperPaco/maindb/views.py", line 13, in id_check
+    a = check(request)
+  File "/home/Pazzio/Django/SuperPaco/SuperPaco/maindb/lib/check.py", line 100, in check
+    z.choices.append(user_id['choices'])
+AttributeError: 'NoneType' object has no attribute 'append'
+"POST /back_end/id_check/ HTTP/1.1" 500 27
+Internal Server Error: /back_end/id_check/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/Pazzio/Django/SuperPaco/SuperPaco/maindb/views.py", line 13, in id_check
+    a = check(request)
+  File "/home/Pazzio/Django/SuperPaco/SuperPaco/maindb/lib/check.py", line 100, in check
+    z.choices.append(user_id['choices'])
+AttributeError: 'NoneType' object has no attribute 'append'
+"POST /back_end/id_check/ HTTP/1.1" 500 27
+Internal Server Error: /back_end/id_check/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/Pazzio/Django/SuperPaco/SuperPaco/maindb/views.py", line 13, in id_check
+    a = check(request)
+  File "/home/Pazzio/Django/SuperPaco/SuperPaco/maindb/lib/check.py", line 101, in check
+    g.append(user_id['choices'])
+AttributeError: 'NoneType' object has no attribute 'append'
+"POST /back_end/id_check/ HTTP/1.1" 500 27
+Internal Server Error: /back_end/id_check/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/Pazzio/Django/SuperPaco/SuperPaco/maindb/views.py", line 13, in id_check
+    a = check(request)
+  File "/home/Pazzio/Django/SuperPaco/SuperPaco/maindb/lib/check.py", line 101, in check
+    g.append(user_id['choices'])
+AttributeError: 'NoneType' object has no attribute 'append'
+"POST /back_end/id_check/ HTTP/1.1" 500 27
+"POST /back_end/basic_data/ HTTP/1.1" 200 22
+"POST /back_end/basic_data/ HTTP/1.1" 200 30
+"POST /back_end/id_check/ HTTP/1.1" 200 43
+"POST /back_end/id_check/ HTTP/1.1" 200 43
+"POST /back_end/id_check/ HTTP/1.1" 200 43
+Internal Server Error: /back_end/id_check/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/Pazzio/Django/SuperPaco/SuperPaco/maindb/views.py", line 13, in id_check
+    a = check(request)
+  File "/home/Pazzio/Django/SuperPaco/SuperPaco/maindb/lib/check.py", line 105, in check
+    z.save()
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/base.py", line 718, in save
+    force_update=force_update, update_fields=update_fields)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/base.py", line 748, in save_base
+    updated = self._save_table(raw, cls, force_insert, force_update, using, update_fields)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/base.py", line 812, in _save_table
+    forced_update)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/base.py", line 861, in _do_update
+    return filtered._update(values) > 0
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/query.py", line 712, in _update
+    return query.get_compiler(self.db).execute_sql(CURSOR)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/compiler.py", line 1383, in execute_sql
+    cursor = super().execute_sql(result_type)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/compiler.py", line 1052, in execute_sql
+    sql, params = self.as_sql()
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/compiler.py", line 1349, in as_sql
+    val = field.get_db_prep_save(val, connection=self.connection)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py", line 790, in get_db_prep_save
+    return self.get_db_prep_value(value, connection=connection, prepared=False)
+  File "/usr/local/lib/python3.6/dist-packages/django/contrib/postgres/fields/array.py", line 89, in get_db_prep_value
+    return [self.base_field.get_db_prep_value(i, connection, prepared=False) for i in value]
+  File "/usr/local/lib/python3.6/dist-packages/django/contrib/postgres/fields/array.py", line 89, in <listcomp>
+    return [self.base_field.get_db_prep_value(i, connection, prepared=False) for i in value]
+  File "/usr/local/lib/python3.6/dist-packages/django/contrib/postgres/fields/array.py", line 89, in get_db_prep_value
+    return [self.base_field.get_db_prep_value(i, connection, prepared=False) for i in value]
+  File "/usr/local/lib/python3.6/dist-packages/django/contrib/postgres/fields/array.py", line 89, in <listcomp>
+    return [self.base_field.get_db_prep_value(i, connection, prepared=False) for i in value]
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py", line 785, in get_db_prep_value
+    value = self.get_prep_value(value)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py", line 1807, in get_prep_value
+    return int(value)
+TypeError: int() argument must be a string, a bytes-like object or a number, not 'list'
+"POST /back_end/id_check/ HTTP/1.1" 500 27
+Internal Server Error: /back_end/id_check/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/Pazzio/Django/SuperPaco/SuperPaco/maindb/views.py", line 13, in id_check
+    a = check(request)
+  File "/home/Pazzio/Django/SuperPaco/SuperPaco/maindb/lib/check.py", line 90, in check
+    int(b)
+TypeError: int() argument must be a string, a bytes-like object or a number, not 'list'
+"POST /back_end/id_check/ HTTP/1.1" 500 27
+"POST /back_end/id_check/ HTTP/1.1" 200 43
+"POST /back_end/id_check/ HTTP/1.1" 200 43
+"POST /back_end/id_check/ HTTP/1.1" 200 31
+Not Found: /favicon.ico
+Not Found: /back_end/basic_dat/
+Internal Server Error: /back_end/id_check/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+psycopg2.DataError: malformed array literal: "[[2, 1, 1, 0, 3], [2, 1, 1, 0, 3], '[', '2', ',', '1', ',', '1', ',', '0', ',', '3', ']']"
+LINE 1: ...3=>A38,3=A>3i01', "good_choices" = 9, "choices" = '[[2, 1, 1...
+                                                             ^
+DETAIL:  "[" must introduce explicitly-specified array dimensions.
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "./maindb/views.py", line 13, in id_check
+    a = check(request)
+  File "./maindb/lib/check.py", line 103, in check
+    z.save()
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/base.py", line 718, in save
+    force_update=force_update, update_fields=update_fields)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/base.py", line 748, in save_base
+    updated = self._save_table(raw, cls, force_insert, force_update, using, update_fields)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/base.py", line 812, in _save_table
+    forced_update)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/base.py", line 861, in _do_update
+    return filtered._update(values) > 0
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/query.py", line 712, in _update
+    return query.get_compiler(self.db).execute_sql(CURSOR)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/compiler.py", line 1383, in execute_sql
+    cursor = super().execute_sql(result_type)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/compiler.py", line 1065, in execute_sql
+    cursor.execute(sql, params)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/backends/utils.py", line 68, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/backends/utils.py", line 77, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/usr/local/lib/python3.6/dist-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+django.db.utils.DataError: malformed array literal: "[[2, 1, 1, 0, 3], [2, 1, 1, 0, 3], '[', '2', ',', '1', ',', '1', ',', '0', ',', '3', ']']"
+LINE 1: ...3=>A38,3=A>3i01', "good_choices" = 9, "choices" = '[[2, 1, 1...
+                                                             ^
+DETAIL:  "[" must introduce explicitly-specified array dimensions.
+
+ALTER TABLE "maindb_id" ALTER COLUMN "choices" TYPE text USING "choices"::text, ALTER COLUMN "choices" SET DEFAULT %s; (params [''])
+UPDATE "maindb_id" SET "choices" = %s WHERE "choices" IS NULL; (params [''])
+ALTER TABLE "maindb_id" ALTER COLUMN "choices" SET NOT NULL; (params [])
+ALTER TABLE "maindb_id" ALTER COLUMN "choices" DROP DEFAULT; (params [])
+Internal Server Error: /back_end/id_check/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "./maindb/views.py", line 13, in id_check
+    a = check(request)
+  File "./maindb/lib/check.py", line 69, in check
+    user_id = json.loads(request.body)
+  File "/usr/lib/python3.6/json/__init__.py", line 349, in loads
+    s = s.decode(detect_encoding(s), 'surrogatepass')
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xb8 in position 7: invalid start byte
+Internal Server Error: /back_end/id_check/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "./maindb/views.py", line 13, in id_check
+    a = check(request)
+  File "./maindb/lib/check.py", line 69, in check
+    user_id = json.loads(request.body)
+  File "/usr/lib/python3.6/json/__init__.py", line 349, in loads
+    s = s.decode(detect_encoding(s), 'surrogatepass')
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xb8 in position 7: invalid start byte
+Internal Server Error: /back_end/id_check/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "./maindb/views.py", line 13, in id_check
+    a = check(request)
+  File "./maindb/lib/check.py", line 69, in check
+    user_id = json.loads(request.body)
+  File "/usr/lib/python3.6/json/__init__.py", line 349, in loads
+    s = s.decode(detect_encoding(s), 'surrogatepass')
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xb8 in position 7: invalid start byte
+Internal Server Error: /back_end/id_check/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "./maindb/views.py", line 13, in id_check
+    a = check(request)
+  File "./maindb/lib/check.py", line 69, in check
+    user_id = json.loads(request.body)
+  File "/usr/lib/python3.6/json/__init__.py", line 349, in loads
+    s = s.decode(detect_encoding(s), 'surrogatepass')
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xb8 in position 7: invalid start byte
+Internal Server Error: /back_end/id_check/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "./maindb/views.py", line 13, in id_check
+    a = check(request)
+  File "./maindb/lib/check.py", line 69, in check
+    user_id = json.loads(request.body.decode('utf-8'))
+  File "/usr/lib/python3.6/json/__init__.py", line 349, in loads
+    s = s.decode(detect_encoding(s), 'surrogatepass')
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xb8 in position 7: invalid start byte
+Internal Server Error: /back_end/id_check/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "./maindb/views.py", line 13, in id_check
+    a = check(request)
+  File "./maindb/lib/check.py", line 69, in check
+    user_id = json.loads(request.body.decode('utf-8'))
+  File "/usr/lib/python3.6/json/__init__.py", line 349, in loads
+    s = s.decode(detect_encoding(s), 'surrogatepass')
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xb8 in position 7: invalid start byte
+Internal Server Error: /back_end/id_check/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "./maindb/views.py", line 13, in id_check
+    a = check(request)
+  File "./maindb/lib/check.py", line 69, in check
+    user_id = json.loads(request.body.decode('utf-8'))
+  File "/usr/lib/python3.6/json/__init__.py", line 349, in loads
+    s = s.decode(detect_encoding(s), 'surrogatepass')
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xb8 in position 7: invalid start byte
+Internal Server Error: /back_end/id_check/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "./maindb/views.py", line 13, in id_check
+    a = check(request)
+  File "./maindb/lib/check.py", line 69, in check
+    user_id = json.loads(request.body.decode('utf-8'))
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+Internal Server Error: /back_end/id_check/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "./maindb/views.py", line 13, in id_check
+    a = check(request)
+  File "./maindb/lib/check.py", line 69, in check
+    user_id = json.loads(request.body)
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+Internal Server Error: /back_end/id_check/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "./maindb/views.py", line 13, in id_check
+    a = check(request)
+  File "./maindb/lib/check.py", line 69, in check
+    user_id = json.loads(request.body.encode('unicode'))
+AttributeError: 'bytes' object has no attribute 'encode'
+Not Found: /favicon.ico
+Internal Server Error: /back_end/id_check/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "./maindb/views.py", line 13, in id_check
+    a = check(request)
+  File "./maindb/lib/check.py", line 69, in check
+    user_id = json.loads(str(request.body))
+  File "/usr/lib/python3.6/json/__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.6/json/decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.6/json/decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+Internal Server Error: /back_end/id_check/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "./maindb/views.py", line 13, in id_check
+    a = check(request)
+  File "./maindb/lib/check.py", line 69, in check
+    user_id = json.loads(str(request.body))
+  File "/usr/lib/python3.6/json/__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.6/json/decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.6/json/decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+Internal Server Error: /back_end/id_check/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "./maindb/views.py", line 13, in id_check
+    a = check(request)
+  File "./maindb/lib/check.py", line 69, in check
+    user_id = str(request.body)
+  File "/usr/lib/python3.6/json/__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.6/json/decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.6/json/decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+Internal Server Error: /back_end/id_check/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "./maindb/views.py", line 13, in id_check
+    a = check(request)
+  File "./maindb/lib/check.py", line 69, in check
+    user_id = json.loads(request.body.decode('utf-8'))
+  File "/usr/lib/python3.6/json/__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.6/json/decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.6/json/decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+Internal Server Error: /back_end/id_check/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "./maindb/views.py", line 13, in id_check
+    a = check(request)
+  File "./maindb/lib/check.py", line 69, in check
+    user_id = json.loads(request.body)
+  File "/usr/lib/python3.6/json/__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.6/json/decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.6/json/decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+Internal Server Error: /back_end/basic_data/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+psycopg2.DataError: value too long for type character varying(7)
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "./maindb/views.py", line 37, in basic_data
+    if basic(request,a) == True:
+  File "./maindb/lib/check.py", line 147, in basic
+    z.save()
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/base.py", line 718, in save
+    force_update=force_update, update_fields=update_fields)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/base.py", line 748, in save_base
+    updated = self._save_table(raw, cls, force_insert, force_update, using, update_fields)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/base.py", line 812, in _save_table
+    forced_update)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/base.py", line 861, in _do_update
+    return filtered._update(values) > 0
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/query.py", line 712, in _update
+    return query.get_compiler(self.db).execute_sql(CURSOR)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/compiler.py", line 1383, in execute_sql
+    cursor = super().execute_sql(result_type)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/compiler.py", line 1065, in execute_sql
+    cursor.execute(sql, params)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/backends/utils.py", line 68, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/backends/utils.py", line 77, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/usr/local/lib/python3.6/dist-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+django.db.utils.DataError: value too long for type character varying(7)
+
+ALTER TABLE "maindb_id" ALTER COLUMN "choices" TYPE integer[][] USING "choices"::integer[][], ALTER COLUMN "choices" DROP NOT NULL; (params [])
+ALTER TABLE "maindb_id" ALTER COLUMN "choices" TYPE integer[][] USING "choices"::integer[][], ALTER COLUMN "choices" DROP NOT NULL; (params [])
+Internal Server Error: /back_end/basic_data/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+psycopg2.DataError: malformed array literal: ""
+LINE 1: ..., "q2") VALUES ('¸3?C38,3>A38,3D@38,3=E@3i01', 0, '', 0, tru...
+                                                             ^
+DETAIL:  Array value must start with "{" or dimension information.
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "./maindb/views.py", line 35, in basic_data
+    a = make(request)
+  File "./maindb/lib/check.py", line 61, in make
+    b.save()
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/base.py", line 718, in save
+    force_update=force_update, update_fields=update_fields)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/base.py", line 748, in save_base
+    updated = self._save_table(raw, cls, force_insert, force_update, using, update_fields)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/base.py", line 831, in _save_table
+    result = self._do_insert(cls._base_manager, using, fields, update_pk, raw)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/base.py", line 869, in _do_insert
+    using=using, raw=raw)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/query.py", line 1136, in _insert
+    return query.get_compiler(using=using).execute_sql(return_id)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/compiler.py", line 1289, in execute_sql
+    cursor.execute(sql, params)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/backends/utils.py", line 68, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/backends/utils.py", line 77, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/usr/local/lib/python3.6/dist-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+django.db.utils.DataError: malformed array literal: ""
+LINE 1: ..., "q2") VALUES ('¸3?C38,3>A38,3D@38,3=E@3i01', 0, '', 0, tru...
+                                                             ^
+DETAIL:  Array value must start with "{" or dimension information.
+
+ALTER TABLE "maindb_id" ALTER COLUMN "choices" TYPE text USING "choices"::text, ALTER COLUMN "choices" SET DEFAULT %s; (params [''])
+UPDATE "maindb_id" SET "choices" = %s WHERE "choices" IS NULL; (params [''])
+ALTER TABLE "maindb_id" ALTER COLUMN "choices" SET NOT NULL; (params [])
+ALTER TABLE "maindb_id" ALTER COLUMN "choices" DROP DEFAULT; (params [])
+Not Found: /favicon.ico
